@@ -1,6 +1,9 @@
 # Hospital Management System
 
 A comprehensive Python-based hospital management system built using Object-Oriented Programming principles.
+<img width="1009" height="632" alt="image" src="https://github.com/user-attachments/assets/63796314-4bdc-45d3-9a7a-c1afdee40212" />
+<img width="338" height="271" alt="Screenshot 2026-10-19 170013" src="https://github.com/user-attachments/assets/b57ed417-7322-4438-a525-752243120554" />
+
 
 ## Features
 -  Admin authentication system
